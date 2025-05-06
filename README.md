@@ -1,3 +1,3 @@
 # Inventory Management System 
 
-is c Sharp object oriented program demonstrating the application of using classes and then methods to make robust applications.
+A basic c Sharp object oriented program demonstrating the application objects of using classes and there methods to make robust applications.
